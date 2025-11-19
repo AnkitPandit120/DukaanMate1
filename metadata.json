@@ -1,0 +1,7 @@
+{
+  "name": "DukaanMate",
+  "description": "A smart shop management platform for small shopkeepers to digitally track sales, stock, payments, and expenses. It includes a voice-based notepad for rush hours to make shop management simple and efficient.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
